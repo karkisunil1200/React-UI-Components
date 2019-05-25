@@ -1,0 +1,11 @@
+.footer {
+    display: flex;
+    padding-top: 10px;
+    font-size: 19px;
+    color: grey;
+
+}
+
+.far {
+    padding-left: 80px;
+}
