@@ -1,0 +1,23 @@
+.number-button {
+    font-size: 2rem;
+    padding: 20px;
+    border: 1px solid grey;
+    width: 25%
+}
+
+.operator-button {
+    font-size: 2rem;
+    padding: 20px;
+    border: 1px solid grey;
+    color: white;
+    background-color: crimson;
+    width: 25%
+}
+
+.zero {
+
+    font-size: 2rem;
+    padding: 20px;
+    width: 75%;
+
+}
