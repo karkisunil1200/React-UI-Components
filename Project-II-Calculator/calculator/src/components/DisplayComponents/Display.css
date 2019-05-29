@@ -1,0 +1,10 @@
+.display {
+    background-color: black;
+    color: white;
+    padding: 25px;
+    width: 400px;
+    box-sizing: border-box;
+    text-align: right;
+    font-size: 2rem;
+
+}
